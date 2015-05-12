@@ -1,6 +1,10 @@
-# Moonshine
-A lightweight Lua virtual machine.  
-[http://moonshinejs.org](http://moonshinejs.org)
+# Moonshine.hx
+
+Goal: Incrementally rebuild moonshine as a Haxe library so that Lua is even more portable than ever.
+
+## Progress
+
+I haven't started yet.
 
 ---
 
